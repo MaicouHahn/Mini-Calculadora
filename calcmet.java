@@ -1,10 +1,8 @@
 package calc2;
-import java.awt.FlowLayout;
-import java.awt.Font;
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JTextField;
-import java.awt.event.ActionEvent;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
 
 public class calcmet extends JFrame {
 
